@@ -1,7 +1,7 @@
 ## Ex No : 8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
  
-## Name: Roop Sagar S L
-## Reg no: 212223040175
+## Name : Roop Sagar S L
+## Reg No : 212223040175
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
